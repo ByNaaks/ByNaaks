@@ -1,13 +1,11 @@
 # ByNaaks
-
-![code](https://www.meosis.fr/wp-content/uploads/2020/09/gif-code.gif)
-
 # 
 
 
 ## A PROPOS DE MOI
 - **Développeur Français**
-- **Je développe pas pour les gens**
+- **Arrêter de Forcer**
+- **https://discord.gg/RnkKCGRTYe**
 
 #
 # 💻 Tech Stacks:
@@ -15,10 +13,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ByNaaks&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ByNaaks&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ByNaaks&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://media.discordapp.net/attachments/1211740564555432017/1215756762993528842/c9634772bae0e23091d4daa9c0e1fa8c.jpg?ex=65fde8b7&is=65eb73b7&hm=d361b45b207d17a54826d6e2b055097394ff8d2950c4b89e7ae50afa379b7280&=&format=webp&width=503&height=671)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -26,7 +20,6 @@
 
 ### :hammer_and_wrench: Languages est Outils :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -45,10 +38,6 @@
 </div>
 
 #
-#
-## NOMBRE DE VISITEUR
-<img src="https://profile-counter.glitch.me/ByNaaks/count.svg" style="max-width:100%;">
-
 #
 
 #
