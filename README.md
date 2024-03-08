@@ -1,6 +1,8 @@
 # ByNaaks
-# 
 
+![](https://media.discordapp.net/attachments/1211740564555432017/1215758304886919249/a_1c46cb7dee639a6628e4994d3afdf223.gif?ex=65fdea27&is=65eb7527&hm=fe6bce4c21b9f75d21a8b9640dfcb58f09b5946102095e7e41f6e8e4a5eb72c6&=)
+
+# 
 
 ## A PROPOS DE MOI
 - **Développeur Français**
