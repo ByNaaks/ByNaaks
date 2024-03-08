@@ -18,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ByNaaks&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ByNaaks&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://media.discordapp.net/attachments/1211740564555432017/1215756762993528842/c9634772bae0e23091d4daa9c0e1fa8c.jpg?ex=65fde8b7&is=65eb73b7&hm=d361b45b207d17a54826d6e2b055097394ff8d2950c4b89e7ae50afa379b7280&=&format=webp&width=503&height=671)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
